@@ -8,6 +8,9 @@
 scratch
 log
 
+# GNS Sample Data
+gns-sample/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
